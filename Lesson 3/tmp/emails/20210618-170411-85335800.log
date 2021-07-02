@@ -1,0 +1,12 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Account verify
+From: django@geekshop.aue
+To: 12661@kljioh.com
+Date: Fri, 18 Jun 2021 14:04:11 -0000
+Message-ID: 
+ <162402505154.3740.1103461867186191700@FFATEKHOV.hprus.heurtey.com>
+
+Your link for account activation: http://127.0.0.1:8000/auth/verify/12661@kljioh.com/47abf3f97a12c28cd14ca86910e1131e3361ed52/
+-------------------------------------------------------------------------------
