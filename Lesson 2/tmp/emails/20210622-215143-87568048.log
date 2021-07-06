@@ -1,0 +1,12 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Account verify
+From: django@geekshop.aue
+To: gge@rv.ru
+Date: Tue, 22 Jun 2021 18:51:43 -0000
+Message-ID: 
+ <162438790397.13224.16470693095316260398@FFATEKHOV.hprus.heurtey.com>
+
+Your link for account activation: http://127.0.0.1:8000/auth/verify/gge@rv.ru/79aa1761cf3e7ef7629fd287b29f5d6c62feffa3/
+-------------------------------------------------------------------------------
