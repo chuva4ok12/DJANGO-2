@@ -39,7 +39,7 @@ class Product(models.Model):
         blank=True,
     )
 
-    is_active = models.BooleanField(default=True)
+    is_active = models.BooleanField(verbose_name='продукт активен', default=True)
 
     short_desc = models.CharField(
         max_length=256,
@@ -70,4 +70,4 @@ class Product(models.Model):
 
     @staticmethod
     def get_items():
-        return Product.objects.filter().order_by('category', 'name')
+        return Product.objects.filter(is_active=True).order_by('category', 'name')

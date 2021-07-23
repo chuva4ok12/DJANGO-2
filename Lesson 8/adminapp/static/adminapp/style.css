@@ -30,6 +30,10 @@ a {
     text-decoration: none
 }
 
+.category_record.not_active {
+    opacity: 0.5;
+}
+
 .header {
     width: 100%;
     height: var(--header-height);
